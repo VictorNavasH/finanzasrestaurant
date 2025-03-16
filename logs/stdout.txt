@@ -1,0 +1,51 @@
+available port 42000
+{ home: '/Users/victornavas/pinokio', version: '3.6.23' }
+version up to date
+{ home_exists: true, homedir: '/Users/victornavas/pinokio' }
+condarc init
+refreshInstalled start
+## check conda
+{
+  conda_path: '/Users/victornavas/pinokio/bin/miniconda',
+  conda_exists: false
+}
+## check brew
+{
+  brew_path: '/Users/victornavas/pinokio/bin/homebrew',
+  brew_exists: false
+}
+checking brew installed
+Unset env key: SSH_AUTH_SOCK
+skip conda
+Unset env key: SSH_AUTH_SOCK
+Unset env key: SSH_AUTH_SOCK
+[Error: ENOENT: no such file or directory, stat '/Users/victornavas/pinokio/bin/playwright/node_modules/playwright'] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: '/Users/victornavas/pinokio/bin/playwright/node_modules/playwright'
+}
+{ needInitHome: false }
+Fri, 14 Mar 2025 15:32:59 GMT express-session deprecated undefined resave option; provide resave option at Applications/Pinokio.app/Contents/Resources/app.asar/node_modules/pinokiod/server/index.js:2280:18
+Fri, 14 Mar 2025 15:32:59 GMT express-session deprecated undefined saveUninitialized option; provide saveUninitialized option at Applications/Pinokio.app/Contents/Resources/app.asar/node_modules/pinokiod/server/index.js:2280:18
+Server listening on port 42000
+xcode-select version 2409
+BREW CHECK { e: false, e2: true, e3: false, e4: true }
+bin init finished
+Unset env key: SSH_AUTH_SOCK
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+<<PINOKIO_SHELL>>ls
+Applications	Users		cores		home		sbin		var
+Library		Volumes		dev		opt		tmp
+System		bin		etc		private		usr
+<<PINOKIO_SHELL>>kernel.launch_complete undefined
+clear Interval
+kernel.launch_complete undefined
+kernel.launch_complete undefined
+SETTING launch complete true
+kernel.launch_complete true
+window-all-closed
+window-all-closed

@@ -1,0 +1,566 @@
+######################################################################
+#
+# group: undefined
+# id: dafbf524-8b08-4f74-81f6-59ea7dac7bc0
+# index: 0
+# cmd: xcode-select -p
+# timestamp: 3/13/2025, 2:11:06 PM (1741871466871)
+
+path: /Users/victornavas/pinokio/bin
+cmd: xcode-select -p
+index: 0
+env:
+  MallocNanoZone: "0"
+  USER: victornavas
+  COMMAND_MODE: unix2003
+  __CFBundleIdentifier: computer.pinokio
+  PATH: /Users/victornavas/pinokio/bin/miniconda/etc/profile.d:/Users/victornavas/pinokio/bin/miniconda/bin:/Users/victornavas/pinokio/bin/miniconda/condabin:/Users/victornavas/pinokio/bin/miniconda/lib:/Users/victornavas/pinokio/bin/miniconda/Library/bin:/Users/victornavas/pinokio/bin/miniconda/pkgs:/Users/victornavas/pinokio/bin/miniconda:/Users/victornavas/pinokio/bin/homebrew/bin:/Users/victornavas/pinokio/bin/homebrew/Cellar:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/node_modules/.bin:/Applications/Pinokio.app/Contents/MacOS:/Users/victornavas/pinokio/bin
+  LOGNAME: victornavas
+  HOME: /Users/victornavas
+  SHELL: /bin/zsh
+  TMPDIR: /Users/victornavas/pinokio/cache/TMPDIR
+  __CF_USER_TEXT_ENCODING: 0x1F5:0x0:0x8
+  XPC_SERVICE_NAME: application.computer.pinokio.2004035.2004042
+  XPC_FLAGS: "0x0"
+  ORIGINAL_XDG_CURRENT_DESKTOP: undefined
+  PLAYWRIGHT_BROWSERS_PATH: /Users/victornavas/pinokio/bin/playwright/browsers
+  CMAKE_OBJECT_PATH_MAX: 1024
+  PYTORCH_ENABLE_MPS_FALLBACK: 1
+  HOMEBREW_CACHE: /Users/victornavas/pinokio/bin/homebrew/cache
+  XDG_CACHE_HOME: /Users/victornavas/pinokio/cache/XDG_CACHE_HOME
+  PIP_CACHE_DIR: /Users/victornavas/pinokio/cache/PIP_CACHE_DIR
+  UV_CACHE_DIR: /Users/victornavas/pinokio/cache/UV_CACHE_DIR
+  PIP_TMPDIR: /Users/victornavas/pinokio/cache/PIP_TMPDIR
+  TEMP: /Users/victornavas/pinokio/cache/TEMP
+  TMP: /Users/victornavas/pinokio/cache/TMP
+  XDG_DATA_HOME: /Users/victornavas/pinokio/cache/XDG_DATA_HOME
+  XDG_CONFIG_HOME: /Users/victornavas/pinokio/cache/XDG_CONFIG_HOME
+  XDG_STATE_HOME: /Users/victornavas/pinokio/cache/XDG_STATE_HOME
+  PIP_CONFIG_FILE: /Users/victornavas/pinokio/pipconfig
+  CONDARC: /Users/victornavas/pinokio/condarc
+  PS1: <<PINOKIO_SHELL>>
+  GRADIO_ANALYTICS_ENABLED: "False"
+  GRADIO_ALLOWED_PATHS: /Users/victornavas/pinokio
+  PINOKIO_SHARE_VAR: url
+  PINOKIO_SHARE_CLOUDFLARE: "false"
+  PINOKIO_SCRIPT_DEFAULT: "true"
+  PINOKIO_DRIVE: /Users/victornavas/pinokio/drive
+  GRADIO_TEMP_DIR: /Users/victornavas/pinokio/cache/GRADIO_TEMP_DIR
+  HF_HOME: /Users/victornavas/pinokio/cache/HF_HOME
+  TORCH_HOME: /Users/victornavas/pinokio/cache/TORCH_HOME
+  PINOKIO_SHARE_LOCAL: "false"
+  HOMEBREW_PREFIX: /Users/victornavas/pinokio/bin/homebrew
+  HOMEBREW_CELLAR: /Users/victornavas/pinokio/bin/homebrew/Cellar
+  HOMEBREW_REPOSITORY: /Users/victornavas/pinokio/bin/homebrew
+  CONDA_PREFIX: /Users/victornavas/pinokio/bin/miniconda
+  CONDA_ENVS_PATH: /Users/victornavas/pinokio/bin/miniconda/envs
+  CONDA_PKGS_DIRS: /Users/victornavas/pinokio/bin/miniconda/pkgs
+  PYTHON: /Users/victornavas/pinokio/bin/miniconda/python
+  TCL_LIBRARY: /Users/victornavas/pinokio/bin/miniconda/lib/tcl8.6
+  TK_LIBRARY: /Users/victornavas/pinokio/bin/miniconda/lib/tk8.6
+  CUDA_HOME: /Users/victornavas/pinokio/bin/miniconda
+  CONDA_AUTO_ACTIVATE_BASE: "false"
+  PYTHONNOUSERSITE: "1"
+  UV_PYTHON_PREFERENCE: only-managed
+done: true
+ready: false
+id: dafbf524-8b08-4f74-81f6-59ea7dac7bc0
+ts: 1741871466856
+
+
+######################################################################
+#
+# group: undefined
+# id: 4a08fa5d-a1bf-4826-ae6f-a5b4160741a4
+# index: 0
+# cmd: env
+# timestamp: 3/13/2025, 2:11:07 PM (1741871467148)
+
+path: /Users/victornavas/pinokio/bin
+cmd: env
+index: 0
+env:
+  MallocNanoZone: "0"
+  USER: victornavas
+  COMMAND_MODE: unix2003
+  __CFBundleIdentifier: computer.pinokio
+  PATH: /Users/victornavas/pinokio/bin/miniconda/etc/profile.d:/Users/victornavas/pinokio/bin/miniconda/bin:/Users/victornavas/pinokio/bin/miniconda/condabin:/Users/victornavas/pinokio/bin/miniconda/lib:/Users/victornavas/pinokio/bin/miniconda/Library/bin:/Users/victornavas/pinokio/bin/miniconda/pkgs:/Users/victornavas/pinokio/bin/miniconda:/Users/victornavas/pinokio/bin/homebrew/bin:/Users/victornavas/pinokio/bin/homebrew/Cellar:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/node_modules/.bin:/Applications/Pinokio.app/Contents/MacOS:/Users/victornavas/pinokio/bin
+  LOGNAME: victornavas
+  HOME: /Users/victornavas
+  SHELL: /bin/zsh
+  TMPDIR: /Users/victornavas/pinokio/cache/TMPDIR
+  __CF_USER_TEXT_ENCODING: 0x1F5:0x0:0x8
+  XPC_SERVICE_NAME: application.computer.pinokio.2004035.2004042
+  XPC_FLAGS: "0x0"
+  ORIGINAL_XDG_CURRENT_DESKTOP: undefined
+  PLAYWRIGHT_BROWSERS_PATH: /Users/victornavas/pinokio/bin/playwright/browsers
+  CMAKE_OBJECT_PATH_MAX: 1024
+  PYTORCH_ENABLE_MPS_FALLBACK: 1
+  HOMEBREW_CACHE: /Users/victornavas/pinokio/bin/homebrew/cache
+  XDG_CACHE_HOME: /Users/victornavas/pinokio/cache/XDG_CACHE_HOME
+  PIP_CACHE_DIR: /Users/victornavas/pinokio/cache/PIP_CACHE_DIR
+  UV_CACHE_DIR: /Users/victornavas/pinokio/cache/UV_CACHE_DIR
+  PIP_TMPDIR: /Users/victornavas/pinokio/cache/PIP_TMPDIR
+  TEMP: /Users/victornavas/pinokio/cache/TEMP
+  TMP: /Users/victornavas/pinokio/cache/TMP
+  XDG_DATA_HOME: /Users/victornavas/pinokio/cache/XDG_DATA_HOME
+  XDG_CONFIG_HOME: /Users/victornavas/pinokio/cache/XDG_CONFIG_HOME
+  XDG_STATE_HOME: /Users/victornavas/pinokio/cache/XDG_STATE_HOME
+  PIP_CONFIG_FILE: /Users/victornavas/pinokio/pipconfig
+  CONDARC: /Users/victornavas/pinokio/condarc
+  PS1: <<PINOKIO_SHELL>>
+  GRADIO_ANALYTICS_ENABLED: "False"
+  GRADIO_ALLOWED_PATHS: /Users/victornavas/pinokio
+  PINOKIO_SHARE_VAR: url
+  PINOKIO_SHARE_CLOUDFLARE: "false"
+  PINOKIO_SCRIPT_DEFAULT: "true"
+  PINOKIO_DRIVE: /Users/victornavas/pinokio/drive
+  GRADIO_TEMP_DIR: /Users/victornavas/pinokio/cache/GRADIO_TEMP_DIR
+  HF_HOME: /Users/victornavas/pinokio/cache/HF_HOME
+  TORCH_HOME: /Users/victornavas/pinokio/cache/TORCH_HOME
+  PINOKIO_SHARE_LOCAL: "false"
+  HOMEBREW_PREFIX: /Users/victornavas/pinokio/bin/homebrew
+  HOMEBREW_CELLAR: /Users/victornavas/pinokio/bin/homebrew/Cellar
+  HOMEBREW_REPOSITORY: /Users/victornavas/pinokio/bin/homebrew
+  CONDA_PREFIX: /Users/victornavas/pinokio/bin/miniconda
+  CONDA_ENVS_PATH: /Users/victornavas/pinokio/bin/miniconda/envs
+  CONDA_PKGS_DIRS: /Users/victornavas/pinokio/bin/miniconda/pkgs
+  PYTHON: /Users/victornavas/pinokio/bin/miniconda/python
+  TCL_LIBRARY: /Users/victornavas/pinokio/bin/miniconda/lib/tcl8.6
+  TK_LIBRARY: /Users/victornavas/pinokio/bin/miniconda/lib/tk8.6
+  CUDA_HOME: /Users/victornavas/pinokio/bin/miniconda
+  CONDA_AUTO_ACTIVATE_BASE: "false"
+  PYTHONNOUSERSITE: "1"
+  UV_PYTHON_PREFERENCE: only-managed
+done: true
+ready: false
+id: 4a08fa5d-a1bf-4826-ae6f-a5b4160741a4
+ts: 1741871467148
+
+
+######################################################################
+#
+# group: undefined
+# id: 49219671-8729-4ffd-9919-626396c75144
+# index: 1
+# cmd: xcode-select --version
+# timestamp: 3/13/2025, 2:11:07 PM (1741871467920)
+
+path: /Users/victornavas/pinokio/bin
+cmd: xcode-select --version
+index: 1
+env:
+  MallocNanoZone: "0"
+  USER: victornavas
+  COMMAND_MODE: unix2003
+  __CFBundleIdentifier: computer.pinokio
+  PATH: /Users/victornavas/pinokio/bin/miniconda/etc/profile.d:/Users/victornavas/pinokio/bin/miniconda/bin:/Users/victornavas/pinokio/bin/miniconda/condabin:/Users/victornavas/pinokio/bin/miniconda/lib:/Users/victornavas/pinokio/bin/miniconda/Library/bin:/Users/victornavas/pinokio/bin/miniconda/pkgs:/Users/victornavas/pinokio/bin/miniconda:/Users/victornavas/pinokio/bin/homebrew/bin:/Users/victornavas/pinokio/bin/homebrew/Cellar:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/node_modules/.bin:/Applications/Pinokio.app/Contents/MacOS:/Users/victornavas/pinokio/bin
+  LOGNAME: victornavas
+  HOME: /Users/victornavas
+  SHELL: /bin/zsh
+  TMPDIR: /Users/victornavas/pinokio/cache/TMPDIR
+  __CF_USER_TEXT_ENCODING: 0x1F5:0x0:0x8
+  XPC_SERVICE_NAME: application.computer.pinokio.2004035.2004042
+  XPC_FLAGS: "0x0"
+  ORIGINAL_XDG_CURRENT_DESKTOP: undefined
+  PLAYWRIGHT_BROWSERS_PATH: /Users/victornavas/pinokio/bin/playwright/browsers
+  CMAKE_OBJECT_PATH_MAX: 1024
+  PYTORCH_ENABLE_MPS_FALLBACK: 1
+  HOMEBREW_CACHE: /Users/victornavas/pinokio/bin/homebrew/cache
+  XDG_CACHE_HOME: /Users/victornavas/pinokio/cache/XDG_CACHE_HOME
+  PIP_CACHE_DIR: /Users/victornavas/pinokio/cache/PIP_CACHE_DIR
+  UV_CACHE_DIR: /Users/victornavas/pinokio/cache/UV_CACHE_DIR
+  PIP_TMPDIR: /Users/victornavas/pinokio/cache/PIP_TMPDIR
+  TEMP: /Users/victornavas/pinokio/cache/TEMP
+  TMP: /Users/victornavas/pinokio/cache/TMP
+  XDG_DATA_HOME: /Users/victornavas/pinokio/cache/XDG_DATA_HOME
+  XDG_CONFIG_HOME: /Users/victornavas/pinokio/cache/XDG_CONFIG_HOME
+  XDG_STATE_HOME: /Users/victornavas/pinokio/cache/XDG_STATE_HOME
+  PIP_CONFIG_FILE: /Users/victornavas/pinokio/pipconfig
+  CONDARC: /Users/victornavas/pinokio/condarc
+  PS1: <<PINOKIO_SHELL>>
+  GRADIO_ANALYTICS_ENABLED: "False"
+  GRADIO_ALLOWED_PATHS: /Users/victornavas/pinokio
+  PINOKIO_SHARE_VAR: url
+  PINOKIO_SHARE_CLOUDFLARE: "false"
+  PINOKIO_SCRIPT_DEFAULT: "true"
+  PINOKIO_DRIVE: /Users/victornavas/pinokio/drive
+  GRADIO_TEMP_DIR: /Users/victornavas/pinokio/cache/GRADIO_TEMP_DIR
+  HF_HOME: /Users/victornavas/pinokio/cache/HF_HOME
+  TORCH_HOME: /Users/victornavas/pinokio/cache/TORCH_HOME
+  PINOKIO_SHARE_LOCAL: "false"
+  HOMEBREW_PREFIX: /Users/victornavas/pinokio/bin/homebrew
+  HOMEBREW_CELLAR: /Users/victornavas/pinokio/bin/homebrew/Cellar
+  HOMEBREW_REPOSITORY: /Users/victornavas/pinokio/bin/homebrew
+  CONDA_PREFIX: /Users/victornavas/pinokio/bin/miniconda
+  CONDA_ENVS_PATH: /Users/victornavas/pinokio/bin/miniconda/envs
+  CONDA_PKGS_DIRS: /Users/victornavas/pinokio/bin/miniconda/pkgs
+  PYTHON: /Users/victornavas/pinokio/bin/miniconda/python
+  TCL_LIBRARY: /Users/victornavas/pinokio/bin/miniconda/lib/tcl8.6
+  TK_LIBRARY: /Users/victornavas/pinokio/bin/miniconda/lib/tk8.6
+  CUDA_HOME: /Users/victornavas/pinokio/bin/miniconda
+  CONDA_AUTO_ACTIVATE_BASE: "false"
+  PYTHONNOUSERSITE: "1"
+  UV_PYTHON_PREFERENCE: only-managed
+done: true
+ready: false
+id: 49219671-8729-4ffd-9919-626396c75144
+ts: 1741871467920
+
+
+######################################################################
+#
+# group: undefined
+# id: a959e9b4-e0d0-49c8-be80-92881755d2dd
+# index: 0
+# cmd: ls
+# timestamp: 3/13/2025, 2:11:08 PM (1741871468971)
+
+cmd: ls
+index: 0
+env:
+  MallocNanoZone: "0"
+  USER: victornavas
+  COMMAND_MODE: unix2003
+  __CFBundleIdentifier: computer.pinokio
+  PATH: /Users/victornavas/pinokio/bin/miniconda/etc/profile.d:/Users/victornavas/pinokio/bin/miniconda/bin:/Users/victornavas/pinokio/bin/miniconda/condabin:/Users/victornavas/pinokio/bin/miniconda/lib:/Users/victornavas/pinokio/bin/miniconda/Library/bin:/Users/victornavas/pinokio/bin/miniconda/pkgs:/Users/victornavas/pinokio/bin/miniconda:/Users/victornavas/pinokio/bin/homebrew/bin:/Users/victornavas/pinokio/bin/homebrew/Cellar:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/node_modules/.bin:/Applications/Pinokio.app/Contents/MacOS:/Users/victornavas/pinokio/bin
+  LOGNAME: victornavas
+  HOME: /Users/victornavas
+  SHELL: /bin/zsh
+  TMPDIR: /Users/victornavas/pinokio/cache/TMPDIR
+  __CF_USER_TEXT_ENCODING: 0x1F5:0x0:0x8
+  XPC_SERVICE_NAME: application.computer.pinokio.2004035.2004042
+  XPC_FLAGS: "0x0"
+  ORIGINAL_XDG_CURRENT_DESKTOP: undefined
+  PLAYWRIGHT_BROWSERS_PATH: /Users/victornavas/pinokio/bin/playwright/browsers
+  CMAKE_OBJECT_PATH_MAX: 1024
+  PYTORCH_ENABLE_MPS_FALLBACK: 1
+  HOMEBREW_CACHE: /Users/victornavas/pinokio/bin/homebrew/cache
+  XDG_CACHE_HOME: /Users/victornavas/pinokio/cache/XDG_CACHE_HOME
+  PIP_CACHE_DIR: /Users/victornavas/pinokio/cache/PIP_CACHE_DIR
+  UV_CACHE_DIR: /Users/victornavas/pinokio/cache/UV_CACHE_DIR
+  PIP_TMPDIR: /Users/victornavas/pinokio/cache/PIP_TMPDIR
+  TEMP: /Users/victornavas/pinokio/cache/TEMP
+  TMP: /Users/victornavas/pinokio/cache/TMP
+  XDG_DATA_HOME: /Users/victornavas/pinokio/cache/XDG_DATA_HOME
+  XDG_CONFIG_HOME: /Users/victornavas/pinokio/cache/XDG_CONFIG_HOME
+  XDG_STATE_HOME: /Users/victornavas/pinokio/cache/XDG_STATE_HOME
+  PIP_CONFIG_FILE: /Users/victornavas/pinokio/pipconfig
+  CONDARC: /Users/victornavas/pinokio/condarc
+  PS1: <<PINOKIO_SHELL>>
+  GRADIO_ANALYTICS_ENABLED: "False"
+  GRADIO_ALLOWED_PATHS: /Users/victornavas/pinokio
+  PINOKIO_SHARE_VAR: url
+  PINOKIO_SHARE_CLOUDFLARE: "false"
+  PINOKIO_SCRIPT_DEFAULT: "true"
+  PINOKIO_DRIVE: /Users/victornavas/pinokio/drive
+  GRADIO_TEMP_DIR: /Users/victornavas/pinokio/cache/GRADIO_TEMP_DIR
+  HF_HOME: /Users/victornavas/pinokio/cache/HF_HOME
+  TORCH_HOME: /Users/victornavas/pinokio/cache/TORCH_HOME
+  PINOKIO_SHARE_LOCAL: "false"
+  HOMEBREW_PREFIX: /Users/victornavas/pinokio/bin/homebrew
+  HOMEBREW_CELLAR: /Users/victornavas/pinokio/bin/homebrew/Cellar
+  HOMEBREW_REPOSITORY: /Users/victornavas/pinokio/bin/homebrew
+  CONDA_PREFIX: /Users/victornavas/pinokio/bin/miniconda
+  CONDA_ENVS_PATH: /Users/victornavas/pinokio/bin/miniconda/envs
+  CONDA_PKGS_DIRS: /Users/victornavas/pinokio/bin/miniconda/pkgs
+  PYTHON: /Users/victornavas/pinokio/bin/miniconda/python
+  TCL_LIBRARY: /Users/victornavas/pinokio/bin/miniconda/lib/tcl8.6
+  TK_LIBRARY: /Users/victornavas/pinokio/bin/miniconda/lib/tk8.6
+  CUDA_HOME: /Users/victornavas/pinokio/bin/miniconda
+  CONDA_AUTO_ACTIVATE_BASE: "false"
+  PYTHONNOUSERSITE: "1"
+  UV_PYTHON_PREFERENCE: only-managed
+done: true
+ready: false
+id: a959e9b4-e0d0-49c8-be80-92881755d2dd
+ts: 1741871468971
+
+
+######################################################################
+#
+# group: undefined
+# id: ca80800c-a1bf-4eec-90ef-b799a561d896
+# index: 0
+# cmd: xcode-select -p
+# timestamp: 3/14/2025, 4:32:58 PM (1741966378914)
+
+path: /Users/victornavas/pinokio/bin
+cmd: xcode-select -p
+index: 0
+env:
+  MallocNanoZone: "0"
+  USER: victornavas
+  SECURITYSESSIONID: 186b1
+  COMMAND_MODE: unix2003
+  __CFBundleIdentifier: computer.pinokio
+  PATH: /Users/victornavas/pinokio/bin/miniconda/etc/profile.d:/Users/victornavas/pinokio/bin/miniconda/bin:/Users/victornavas/pinokio/bin/miniconda/condabin:/Users/victornavas/pinokio/bin/miniconda/lib:/Users/victornavas/pinokio/bin/miniconda/Library/bin:/Users/victornavas/pinokio/bin/miniconda/pkgs:/Users/victornavas/pinokio/bin/miniconda:/Users/victornavas/pinokio/bin/homebrew/bin:/Users/victornavas/pinokio/bin/homebrew/Cellar:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/node_modules/.bin:/Applications/Pinokio.app/Contents/MacOS:/Users/victornavas/pinokio/bin
+  HOME: /Users/victornavas
+  SHELL: /bin/zsh
+  LaunchInstanceID: 8347C7A6-4095-4D41-93B7-A39358185151
+  __CF_USER_TEXT_ENCODING: 0x1F5:0x0:0x8
+  XPC_SERVICE_NAME: application.computer.pinokio.2004035.2004042
+  XPC_FLAGS: "0x0"
+  LOGNAME: victornavas
+  TMPDIR: /Users/victornavas/pinokio/cache/TMPDIR
+  ORIGINAL_XDG_CURRENT_DESKTOP: undefined
+  PLAYWRIGHT_BROWSERS_PATH: /Users/victornavas/pinokio/bin/playwright/browsers
+  CMAKE_OBJECT_PATH_MAX: 1024
+  PYTORCH_ENABLE_MPS_FALLBACK: 1
+  HOMEBREW_CACHE: /Users/victornavas/pinokio/bin/homebrew/cache
+  XDG_CACHE_HOME: /Users/victornavas/pinokio/cache/XDG_CACHE_HOME
+  PIP_CACHE_DIR: /Users/victornavas/pinokio/cache/PIP_CACHE_DIR
+  UV_CACHE_DIR: /Users/victornavas/pinokio/cache/UV_CACHE_DIR
+  PIP_TMPDIR: /Users/victornavas/pinokio/cache/PIP_TMPDIR
+  TEMP: /Users/victornavas/pinokio/cache/TEMP
+  TMP: /Users/victornavas/pinokio/cache/TMP
+  XDG_DATA_HOME: /Users/victornavas/pinokio/cache/XDG_DATA_HOME
+  XDG_CONFIG_HOME: /Users/victornavas/pinokio/cache/XDG_CONFIG_HOME
+  XDG_STATE_HOME: /Users/victornavas/pinokio/cache/XDG_STATE_HOME
+  PIP_CONFIG_FILE: /Users/victornavas/pinokio/pipconfig
+  CONDARC: /Users/victornavas/pinokio/condarc
+  PS1: <<PINOKIO_SHELL>>
+  GRADIO_ANALYTICS_ENABLED: "False"
+  GRADIO_ALLOWED_PATHS: /Users/victornavas/pinokio
+  PINOKIO_SHARE_VAR: url
+  PINOKIO_SHARE_CLOUDFLARE: "false"
+  PINOKIO_SCRIPT_DEFAULT: "true"
+  PINOKIO_DRIVE: /Users/victornavas/pinokio/drive
+  GRADIO_TEMP_DIR: /Users/victornavas/pinokio/cache/GRADIO_TEMP_DIR
+  HF_HOME: /Users/victornavas/pinokio/cache/HF_HOME
+  TORCH_HOME: /Users/victornavas/pinokio/cache/TORCH_HOME
+  PINOKIO_SHARE_LOCAL: "false"
+  HOMEBREW_PREFIX: /Users/victornavas/pinokio/bin/homebrew
+  HOMEBREW_CELLAR: /Users/victornavas/pinokio/bin/homebrew/Cellar
+  HOMEBREW_REPOSITORY: /Users/victornavas/pinokio/bin/homebrew
+  CONDA_PREFIX: /Users/victornavas/pinokio/bin/miniconda
+  CONDA_ENVS_PATH: /Users/victornavas/pinokio/bin/miniconda/envs
+  CONDA_PKGS_DIRS: /Users/victornavas/pinokio/bin/miniconda/pkgs
+  PYTHON: /Users/victornavas/pinokio/bin/miniconda/python
+  TCL_LIBRARY: /Users/victornavas/pinokio/bin/miniconda/lib/tcl8.6
+  TK_LIBRARY: /Users/victornavas/pinokio/bin/miniconda/lib/tk8.6
+  CUDA_HOME: /Users/victornavas/pinokio/bin/miniconda
+  CONDA_AUTO_ACTIVATE_BASE: "false"
+  PYTHONNOUSERSITE: "1"
+  UV_PYTHON_PREFERENCE: only-managed
+done: true
+ready: false
+id: ca80800c-a1bf-4eec-90ef-b799a561d896
+ts: 1741966378879
+
+
+######################################################################
+#
+# group: undefined
+# id: 4a773ebd-c95d-4406-a129-30027ff845f0
+# index: 0
+# cmd: env
+# timestamp: 3/14/2025, 4:32:59 PM (1741966379631)
+
+path: /Users/victornavas/pinokio/bin
+cmd: env
+index: 0
+env:
+  MallocNanoZone: "0"
+  USER: victornavas
+  SECURITYSESSIONID: 186b1
+  COMMAND_MODE: unix2003
+  __CFBundleIdentifier: computer.pinokio
+  PATH: /Users/victornavas/pinokio/bin/miniconda/etc/profile.d:/Users/victornavas/pinokio/bin/miniconda/bin:/Users/victornavas/pinokio/bin/miniconda/condabin:/Users/victornavas/pinokio/bin/miniconda/lib:/Users/victornavas/pinokio/bin/miniconda/Library/bin:/Users/victornavas/pinokio/bin/miniconda/pkgs:/Users/victornavas/pinokio/bin/miniconda:/Users/victornavas/pinokio/bin/homebrew/bin:/Users/victornavas/pinokio/bin/homebrew/Cellar:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/node_modules/.bin:/Applications/Pinokio.app/Contents/MacOS:/Users/victornavas/pinokio/bin
+  HOME: /Users/victornavas
+  SHELL: /bin/zsh
+  LaunchInstanceID: 8347C7A6-4095-4D41-93B7-A39358185151
+  __CF_USER_TEXT_ENCODING: 0x1F5:0x0:0x8
+  XPC_SERVICE_NAME: application.computer.pinokio.2004035.2004042
+  XPC_FLAGS: "0x0"
+  LOGNAME: victornavas
+  TMPDIR: /Users/victornavas/pinokio/cache/TMPDIR
+  ORIGINAL_XDG_CURRENT_DESKTOP: undefined
+  PLAYWRIGHT_BROWSERS_PATH: /Users/victornavas/pinokio/bin/playwright/browsers
+  CMAKE_OBJECT_PATH_MAX: 1024
+  PYTORCH_ENABLE_MPS_FALLBACK: 1
+  HOMEBREW_CACHE: /Users/victornavas/pinokio/bin/homebrew/cache
+  XDG_CACHE_HOME: /Users/victornavas/pinokio/cache/XDG_CACHE_HOME
+  PIP_CACHE_DIR: /Users/victornavas/pinokio/cache/PIP_CACHE_DIR
+  UV_CACHE_DIR: /Users/victornavas/pinokio/cache/UV_CACHE_DIR
+  PIP_TMPDIR: /Users/victornavas/pinokio/cache/PIP_TMPDIR
+  TEMP: /Users/victornavas/pinokio/cache/TEMP
+  TMP: /Users/victornavas/pinokio/cache/TMP
+  XDG_DATA_HOME: /Users/victornavas/pinokio/cache/XDG_DATA_HOME
+  XDG_CONFIG_HOME: /Users/victornavas/pinokio/cache/XDG_CONFIG_HOME
+  XDG_STATE_HOME: /Users/victornavas/pinokio/cache/XDG_STATE_HOME
+  PIP_CONFIG_FILE: /Users/victornavas/pinokio/pipconfig
+  CONDARC: /Users/victornavas/pinokio/condarc
+  PS1: <<PINOKIO_SHELL>>
+  GRADIO_ANALYTICS_ENABLED: "False"
+  GRADIO_ALLOWED_PATHS: /Users/victornavas/pinokio
+  PINOKIO_SHARE_VAR: url
+  PINOKIO_SHARE_CLOUDFLARE: "false"
+  PINOKIO_SCRIPT_DEFAULT: "true"
+  PINOKIO_DRIVE: /Users/victornavas/pinokio/drive
+  GRADIO_TEMP_DIR: /Users/victornavas/pinokio/cache/GRADIO_TEMP_DIR
+  HF_HOME: /Users/victornavas/pinokio/cache/HF_HOME
+  TORCH_HOME: /Users/victornavas/pinokio/cache/TORCH_HOME
+  PINOKIO_SHARE_LOCAL: "false"
+  HOMEBREW_PREFIX: /Users/victornavas/pinokio/bin/homebrew
+  HOMEBREW_CELLAR: /Users/victornavas/pinokio/bin/homebrew/Cellar
+  HOMEBREW_REPOSITORY: /Users/victornavas/pinokio/bin/homebrew
+  CONDA_PREFIX: /Users/victornavas/pinokio/bin/miniconda
+  CONDA_ENVS_PATH: /Users/victornavas/pinokio/bin/miniconda/envs
+  CONDA_PKGS_DIRS: /Users/victornavas/pinokio/bin/miniconda/pkgs
+  PYTHON: /Users/victornavas/pinokio/bin/miniconda/python
+  TCL_LIBRARY: /Users/victornavas/pinokio/bin/miniconda/lib/tcl8.6
+  TK_LIBRARY: /Users/victornavas/pinokio/bin/miniconda/lib/tk8.6
+  CUDA_HOME: /Users/victornavas/pinokio/bin/miniconda
+  CONDA_AUTO_ACTIVATE_BASE: "false"
+  PYTHONNOUSERSITE: "1"
+  UV_PYTHON_PREFERENCE: only-managed
+done: true
+ready: false
+id: 4a773ebd-c95d-4406-a129-30027ff845f0
+ts: 1741966379631
+
+
+######################################################################
+#
+# group: undefined
+# id: ab03ac10-5493-4170-aadf-5c42e99bd0c6
+# index: 1
+# cmd: xcode-select --version
+# timestamp: 3/14/2025, 4:33:00 PM (1741966380108)
+
+path: /Users/victornavas/pinokio/bin
+cmd: xcode-select --version
+index: 1
+env:
+  MallocNanoZone: "0"
+  USER: victornavas
+  SECURITYSESSIONID: 186b1
+  COMMAND_MODE: unix2003
+  __CFBundleIdentifier: computer.pinokio
+  PATH: /Users/victornavas/pinokio/bin/miniconda/etc/profile.d:/Users/victornavas/pinokio/bin/miniconda/bin:/Users/victornavas/pinokio/bin/miniconda/condabin:/Users/victornavas/pinokio/bin/miniconda/lib:/Users/victornavas/pinokio/bin/miniconda/Library/bin:/Users/victornavas/pinokio/bin/miniconda/pkgs:/Users/victornavas/pinokio/bin/miniconda:/Users/victornavas/pinokio/bin/homebrew/bin:/Users/victornavas/pinokio/bin/homebrew/Cellar:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/node_modules/.bin:/Applications/Pinokio.app/Contents/MacOS:/Users/victornavas/pinokio/bin
+  HOME: /Users/victornavas
+  SHELL: /bin/zsh
+  LaunchInstanceID: 8347C7A6-4095-4D41-93B7-A39358185151
+  __CF_USER_TEXT_ENCODING: 0x1F5:0x0:0x8
+  XPC_SERVICE_NAME: application.computer.pinokio.2004035.2004042
+  XPC_FLAGS: "0x0"
+  LOGNAME: victornavas
+  TMPDIR: /Users/victornavas/pinokio/cache/TMPDIR
+  ORIGINAL_XDG_CURRENT_DESKTOP: undefined
+  PLAYWRIGHT_BROWSERS_PATH: /Users/victornavas/pinokio/bin/playwright/browsers
+  CMAKE_OBJECT_PATH_MAX: 1024
+  PYTORCH_ENABLE_MPS_FALLBACK: 1
+  HOMEBREW_CACHE: /Users/victornavas/pinokio/bin/homebrew/cache
+  XDG_CACHE_HOME: /Users/victornavas/pinokio/cache/XDG_CACHE_HOME
+  PIP_CACHE_DIR: /Users/victornavas/pinokio/cache/PIP_CACHE_DIR
+  UV_CACHE_DIR: /Users/victornavas/pinokio/cache/UV_CACHE_DIR
+  PIP_TMPDIR: /Users/victornavas/pinokio/cache/PIP_TMPDIR
+  TEMP: /Users/victornavas/pinokio/cache/TEMP
+  TMP: /Users/victornavas/pinokio/cache/TMP
+  XDG_DATA_HOME: /Users/victornavas/pinokio/cache/XDG_DATA_HOME
+  XDG_CONFIG_HOME: /Users/victornavas/pinokio/cache/XDG_CONFIG_HOME
+  XDG_STATE_HOME: /Users/victornavas/pinokio/cache/XDG_STATE_HOME
+  PIP_CONFIG_FILE: /Users/victornavas/pinokio/pipconfig
+  CONDARC: /Users/victornavas/pinokio/condarc
+  PS1: <<PINOKIO_SHELL>>
+  GRADIO_ANALYTICS_ENABLED: "False"
+  GRADIO_ALLOWED_PATHS: /Users/victornavas/pinokio
+  PINOKIO_SHARE_VAR: url
+  PINOKIO_SHARE_CLOUDFLARE: "false"
+  PINOKIO_SCRIPT_DEFAULT: "true"
+  PINOKIO_DRIVE: /Users/victornavas/pinokio/drive
+  GRADIO_TEMP_DIR: /Users/victornavas/pinokio/cache/GRADIO_TEMP_DIR
+  HF_HOME: /Users/victornavas/pinokio/cache/HF_HOME
+  TORCH_HOME: /Users/victornavas/pinokio/cache/TORCH_HOME
+  PINOKIO_SHARE_LOCAL: "false"
+  HOMEBREW_PREFIX: /Users/victornavas/pinokio/bin/homebrew
+  HOMEBREW_CELLAR: /Users/victornavas/pinokio/bin/homebrew/Cellar
+  HOMEBREW_REPOSITORY: /Users/victornavas/pinokio/bin/homebrew
+  CONDA_PREFIX: /Users/victornavas/pinokio/bin/miniconda
+  CONDA_ENVS_PATH: /Users/victornavas/pinokio/bin/miniconda/envs
+  CONDA_PKGS_DIRS: /Users/victornavas/pinokio/bin/miniconda/pkgs
+  PYTHON: /Users/victornavas/pinokio/bin/miniconda/python
+  TCL_LIBRARY: /Users/victornavas/pinokio/bin/miniconda/lib/tcl8.6
+  TK_LIBRARY: /Users/victornavas/pinokio/bin/miniconda/lib/tk8.6
+  CUDA_HOME: /Users/victornavas/pinokio/bin/miniconda
+  CONDA_AUTO_ACTIVATE_BASE: "false"
+  PYTHONNOUSERSITE: "1"
+  UV_PYTHON_PREFERENCE: only-managed
+done: true
+ready: false
+id: ab03ac10-5493-4170-aadf-5c42e99bd0c6
+ts: 1741966380108
+
+
+######################################################################
+#
+# group: undefined
+# id: 18bf8169-08e0-40d5-94ee-3bde419a26a8
+# index: 0
+# cmd: ls
+# timestamp: 3/14/2025, 4:33:01 PM (1741966381151)
+
+cmd: ls
+index: 0
+env:
+  MallocNanoZone: "0"
+  USER: victornavas
+  SECURITYSESSIONID: 186b1
+  COMMAND_MODE: unix2003
+  __CFBundleIdentifier: computer.pinokio
+  PATH: /Users/victornavas/pinokio/bin/miniconda/etc/profile.d:/Users/victornavas/pinokio/bin/miniconda/bin:/Users/victornavas/pinokio/bin/miniconda/condabin:/Users/victornavas/pinokio/bin/miniconda/lib:/Users/victornavas/pinokio/bin/miniconda/Library/bin:/Users/victornavas/pinokio/bin/miniconda/pkgs:/Users/victornavas/pinokio/bin/miniconda:/Users/victornavas/pinokio/bin/homebrew/bin:/Users/victornavas/pinokio/bin/homebrew/Cellar:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/node_modules/.bin:/Applications/Pinokio.app/Contents/MacOS:/Users/victornavas/pinokio/bin
+  HOME: /Users/victornavas
+  SHELL: /bin/zsh
+  LaunchInstanceID: 8347C7A6-4095-4D41-93B7-A39358185151
+  __CF_USER_TEXT_ENCODING: 0x1F5:0x0:0x8
+  XPC_SERVICE_NAME: application.computer.pinokio.2004035.2004042
+  XPC_FLAGS: "0x0"
+  LOGNAME: victornavas
+  TMPDIR: /Users/victornavas/pinokio/cache/TMPDIR
+  ORIGINAL_XDG_CURRENT_DESKTOP: undefined
+  PLAYWRIGHT_BROWSERS_PATH: /Users/victornavas/pinokio/bin/playwright/browsers
+  CMAKE_OBJECT_PATH_MAX: 1024
+  PYTORCH_ENABLE_MPS_FALLBACK: 1
+  HOMEBREW_CACHE: /Users/victornavas/pinokio/bin/homebrew/cache
+  XDG_CACHE_HOME: /Users/victornavas/pinokio/cache/XDG_CACHE_HOME
+  PIP_CACHE_DIR: /Users/victornavas/pinokio/cache/PIP_CACHE_DIR
+  UV_CACHE_DIR: /Users/victornavas/pinokio/cache/UV_CACHE_DIR
+  PIP_TMPDIR: /Users/victornavas/pinokio/cache/PIP_TMPDIR
+  TEMP: /Users/victornavas/pinokio/cache/TEMP
+  TMP: /Users/victornavas/pinokio/cache/TMP
+  XDG_DATA_HOME: /Users/victornavas/pinokio/cache/XDG_DATA_HOME
+  XDG_CONFIG_HOME: /Users/victornavas/pinokio/cache/XDG_CONFIG_HOME
+  XDG_STATE_HOME: /Users/victornavas/pinokio/cache/XDG_STATE_HOME
+  PIP_CONFIG_FILE: /Users/victornavas/pinokio/pipconfig
+  CONDARC: /Users/victornavas/pinokio/condarc
+  PS1: <<PINOKIO_SHELL>>
+  GRADIO_ANALYTICS_ENABLED: "False"
+  GRADIO_ALLOWED_PATHS: /Users/victornavas/pinokio
+  PINOKIO_SHARE_VAR: url
+  PINOKIO_SHARE_CLOUDFLARE: "false"
+  PINOKIO_SCRIPT_DEFAULT: "true"
+  PINOKIO_DRIVE: /Users/victornavas/pinokio/drive
+  GRADIO_TEMP_DIR: /Users/victornavas/pinokio/cache/GRADIO_TEMP_DIR
+  HF_HOME: /Users/victornavas/pinokio/cache/HF_HOME
+  TORCH_HOME: /Users/victornavas/pinokio/cache/TORCH_HOME
+  PINOKIO_SHARE_LOCAL: "false"
+  HOMEBREW_PREFIX: /Users/victornavas/pinokio/bin/homebrew
+  HOMEBREW_CELLAR: /Users/victornavas/pinokio/bin/homebrew/Cellar
+  HOMEBREW_REPOSITORY: /Users/victornavas/pinokio/bin/homebrew
+  CONDA_PREFIX: /Users/victornavas/pinokio/bin/miniconda
+  CONDA_ENVS_PATH: /Users/victornavas/pinokio/bin/miniconda/envs
+  CONDA_PKGS_DIRS: /Users/victornavas/pinokio/bin/miniconda/pkgs
+  PYTHON: /Users/victornavas/pinokio/bin/miniconda/python
+  TCL_LIBRARY: /Users/victornavas/pinokio/bin/miniconda/lib/tcl8.6
+  TK_LIBRARY: /Users/victornavas/pinokio/bin/miniconda/lib/tk8.6
+  CUDA_HOME: /Users/victornavas/pinokio/bin/miniconda
+  CONDA_AUTO_ACTIVATE_BASE: "false"
+  PYTHONNOUSERSITE: "1"
+  UV_PYTHON_PREFERENCE: only-managed
+done: true
+ready: false
+id: 18bf8169-08e0-40d5-94ee-3bde419a26a8
+ts: 1741966381151
+
+

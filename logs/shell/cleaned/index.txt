@@ -1,0 +1,244 @@
+######################################################################
+#
+# group: undefined
+# id: dafbf524-8b08-4f74-81f6-59ea7dac7bc0
+# index: 0
+# cmd: xcode-select -p
+# timestamp: 3/13/2025, 2:11:06 PM (1741871466871)
+
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+<<PINOKIO_SHELL>>xcode-select -p
+xcode-select: error: Unable to get active developer directory. Use `sudo xcode-select --switch path/to/Xcode.app` to set one (or see `man xcode-select`)
+<<PINOKIO_SHELL>>
+
+######################################################################
+#
+# group: undefined
+# id: 4a08fa5d-a1bf-4826-ae6f-a5b4160741a4
+# index: 0
+# cmd: env
+# timestamp: 3/13/2025, 2:11:07 PM (1741871467148)
+
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+<<PINOKIO_SHELL>>env
+CONDA_AUTO_ACTIVATE_BASE=false
+GRADIO_TEMP_DIR=/Users/victornavas/pinokio/cache/GRADIO_TEMP_DIR
+XDG_DATA_HOME=/Users/victornavas/pinokio/cache/XDG_DATA_HOME
+TERM=xterm-color
+SHELL=/bin/zsh
+PYTHONNOUSERSITE=1
+HOMEBREW_REPOSITORY=/Users/victornavas/pinokio/bin/homebrew
+TMPDIR=/Users/victornavas/pinokio/cache/TMPDIR
+PINOKIO_SHARE_VAR=url
+TK_LIBRARY=/Users/victornavas/pinokio/bin/miniconda/lib/tk8.6
+PIP_CACHE_DIR=/Users/victornavas/pinokio/cache/PIP_CACHE_DIR
+ORIGINAL_XDG_CURRENT_DESKTOP=undefined
+MallocNanoZone=0
+CUDA_HOME=/Users/victornavas/pinokio/bin/miniconda
+USER=victornavas
+UV_PYTHON_PREFERENCE=only-managed
+TEMP=/Users/victornavas/pinokio/cache/TEMP
+COMMAND_MODE=unix2003
+TCL_LIBRARY=/Users/victornavas/pinokio/bin/miniconda/lib/tcl8.6
+PYTORCH_ENABLE_MPS_FALLBACK=1
+__CF_USER_TEXT_ENCODING=0x1F5:0x0:0x8
+HOMEBREW_CACHE=/Users/victornavas/pinokio/bin/homebrew/cache
+HF_HOME=/Users/victornavas/pinokio/cache/HF_HOME
+PIP_CONFIG_FILE=/Users/victornavas/pinokio/pipconfig
+PATH=/Users/victornavas/pinokio/bin/miniconda/etc/profile.d:/Users/victornavas/pinokio/bin/miniconda/bin:/Users/victornavas/pinokio/bin/miniconda/condabin:/Users/victornavas/pinokio/bin/miniconda/lib:/Users/victornavas/pinokio/bin/miniconda/Library/bin:/Users/victornavas/pinokio/bin/miniconda/pkgs:/Users/victornavas/pinokio/bin/miniconda:/Users/victornavas/pinokio/bin/homebrew/bin:/Users/victornavas/pinokio/bin/homebrew/Cellar:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/node_modules/.bin:/Applications/Pinokio.app/Contents/MacOS:/Users/victornavas/pinokio/bin
+CONDA_PREFIX=/Users/victornavas/pinokio/bin/miniconda
+__CFBundleIdentifier=computer.pinokio
+PWD=/Users/victornavas/pinokio/bin
+PINOKIO_SHARE_CLOUDFLARE=false
+CONDA_PKGS_DIRS=/Users/victornavas/pinokio/bin/miniconda/pkgs
+XDG_STATE_HOME=/Users/victornavas/pinokio/cache/XDG_STATE_HOME
+CMAKE_OBJECT_PATH_MAX=1024
+PINOKIO_SHARE_LOCAL=false
+PLAYWRIGHT_BROWSERS_PATH=/Users/victornavas/pinokio/bin/playwright/browsers
+XPC_FLAGS=0x0
+PS1=<<PINOKIO_SHELL>>
+PINOKIO_SCRIPT_DEFAULT=true
+CONDA_ENVS_PATH=/Users/victornavas/pinokio/bin/miniconda/envs
+PIP_TMPDIR=/Users/victornavas/pinokio/cache/PIP_TMPDIR
+XPC_SERVICE_NAME=0
+TORCH_HOME=/Users/victornavas/pinokio/cache/TORCH_HOME
+SHLVL=1
+HOME=/Users/victornavas
+XDG_CONFIG_HOME=/Users/victornavas/pinokio/cache/XDG_CONFIG_HOME
+HOMEBREW_PREFIX=/Users/victornavas/pinokio/bin/homebrew
+CONDARC=/Users/victornavas/pinokio/condarc
+XDG_CACHE_HOME=/Users/victornavas/pinokio/cache/XDG_CACHE_HOME
+GRADIO_ANALYTICS_ENABLED=False
+TMP=/Users/victornavas/pinokio/cache/TMP
+LOGNAME=victornavas
+PINOKIO_DRIVE=/Users/victornavas/pinokio/drive
+HOMEBREW_CELLAR=/Users/victornavas/pinokio/bin/homebrew/Cellar
+GRADIO_ALLOWED_PATHS=/Users/victornavas/pinokio
+PYTHON=/Users/victornavas/pinokio/bin/miniconda/python
+UV_CACHE_DIR=/Users/victornavas/pinokio/cache/UV_CACHE_DIR
+_=/usr/bin/env
+<<PINOKIO_SHELL>>
+
+######################################################################
+#
+# group: undefined
+# id: 49219671-8729-4ffd-9919-626396c75144
+# index: 1
+# cmd: xcode-select --version
+# timestamp: 3/13/2025, 2:11:07 PM (1741871467920)
+
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+<<PINOKIO_SHELL>>xcode-select --version
+xcode-select version 2409.
+<<PINOKIO_SHELL>>
+
+######################################################################
+#
+# group: undefined
+# id: a959e9b4-e0d0-49c8-be80-92881755d2dd
+# index: 0
+# cmd: ls
+# timestamp: 3/13/2025, 2:11:08 PM (1741871468971)
+
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+<<PINOKIO_SHELL>>ls
+ApplicationsUserscoreshomesbinvar
+LibraryVolumesdevopttmp
+Systembinetcprivateusr
+<<PINOKIO_SHELL>>
+
+######################################################################
+#
+# group: undefined
+# id: ca80800c-a1bf-4eec-90ef-b799a561d896
+# index: 0
+# cmd: xcode-select -p
+# timestamp: 3/14/2025, 4:32:58 PM (1741966378914)
+
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+<<PINOKIO_SHELL>>xcode-select -p
+xcode-select: error: Unable to get active developer directory. Use `sudo xcode-select --switch path/to/Xcode.app` to set one (or see `man xcode-select`)
+<<PINOKIO_SHELL>>
+
+######################################################################
+#
+# group: undefined
+# id: 4a773ebd-c95d-4406-a129-30027ff845f0
+# index: 0
+# cmd: env
+# timestamp: 3/14/2025, 4:32:59 PM (1741966379631)
+
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+<<PINOKIO_SHELL>>env
+CONDA_AUTO_ACTIVATE_BASE=false
+GRADIO_TEMP_DIR=/Users/victornavas/pinokio/cache/GRADIO_TEMP_DIR
+XDG_DATA_HOME=/Users/victornavas/pinokio/cache/XDG_DATA_HOME
+TERM=xterm-color
+SHELL=/bin/zsh
+PYTHONNOUSERSITE=1
+HOMEBREW_REPOSITORY=/Users/victornavas/pinokio/bin/homebrew
+TMPDIR=/Users/victornavas/pinokio/cache/TMPDIR
+PINOKIO_SHARE_VAR=url
+TK_LIBRARY=/Users/victornavas/pinokio/bin/miniconda/lib/tk8.6
+PIP_CACHE_DIR=/Users/victornavas/pinokio/cache/PIP_CACHE_DIR
+ORIGINAL_XDG_CURRENT_DESKTOP=undefined
+MallocNanoZone=0
+CUDA_HOME=/Users/victornavas/pinokio/bin/miniconda
+USER=victornavas
+UV_PYTHON_PREFERENCE=only-managed
+TEMP=/Users/victornavas/pinokio/cache/TEMP
+COMMAND_MODE=unix2003
+TCL_LIBRARY=/Users/victornavas/pinokio/bin/miniconda/lib/tcl8.6
+PYTORCH_ENABLE_MPS_FALLBACK=1
+__CF_USER_TEXT_ENCODING=0x1F5:0x0:0x8
+HOMEBREW_CACHE=/Users/victornavas/pinokio/bin/homebrew/cache
+HF_HOME=/Users/victornavas/pinokio/cache/HF_HOME
+PIP_CONFIG_FILE=/Users/victornavas/pinokio/pipconfig
+PATH=/Users/victornavas/pinokio/bin/miniconda/etc/profile.d:/Users/victornavas/pinokio/bin/miniconda/bin:/Users/victornavas/pinokio/bin/miniconda/condabin:/Users/victornavas/pinokio/bin/miniconda/lib:/Users/victornavas/pinokio/bin/miniconda/Library/bin:/Users/victornavas/pinokio/bin/miniconda/pkgs:/Users/victornavas/pinokio/bin/miniconda:/Users/victornavas/pinokio/bin/homebrew/bin:/Users/victornavas/pinokio/bin/homebrew/Cellar:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/node_modules/.bin:/Applications/Pinokio.app/Contents/MacOS:/Users/victornavas/pinokio/bin
+LaunchInstanceID=8347C7A6-4095-4D41-93B7-A39358185151
+CONDA_PREFIX=/Users/victornavas/pinokio/bin/miniconda
+__CFBundleIdentifier=computer.pinokio
+PWD=/Users/victornavas/pinokio/bin
+PINOKIO_SHARE_CLOUDFLARE=false
+CONDA_PKGS_DIRS=/Users/victornavas/pinokio/bin/miniconda/pkgs
+XDG_STATE_HOME=/Users/victornavas/pinokio/cache/XDG_STATE_HOME
+CMAKE_OBJECT_PATH_MAX=1024
+PINOKIO_SHARE_LOCAL=false
+PLAYWRIGHT_BROWSERS_PATH=/Users/victornavas/pinokio/bin/playwright/browsers
+XPC_FLAGS=0x0
+PS1=<<PINOKIO_SHELL>>
+PINOKIO_SCRIPT_DEFAULT=true
+CONDA_ENVS_PATH=/Users/victornavas/pinokio/bin/miniconda/envs
+PIP_TMPDIR=/Users/victornavas/pinokio/cache/PIP_TMPDIR
+XPC_SERVICE_NAME=0
+TORCH_HOME=/Users/victornavas/pinokio/cache/TORCH_HOME
+SHLVL=1
+HOME=/Users/victornavas
+XDG_CONFIG_HOME=/Users/victornavas/pinokio/cache/XDG_CONFIG_HOME
+HOMEBREW_PREFIX=/Users/victornavas/pinokio/bin/homebrew
+CONDARC=/Users/victornavas/pinokio/condarc
+XDG_CACHE_HOME=/Users/victornavas/pinokio/cache/XDG_CACHE_HOME
+GRADIO_ANALYTICS_ENABLED=False
+TMP=/Users/victornavas/pinokio/cache/TMP
+LOGNAME=victornavas
+PINOKIO_DRIVE=/Users/victornavas/pinokio/drive
+HOMEBREW_CELLAR=/Users/victornavas/pinokio/bin/homebrew/Cellar
+GRADIO_ALLOWED_PATHS=/Users/victornavas/pinokio
+SECURITYSESSIONID=186b1
+PYTHON=/Users/victornavas/pinokio/bin/miniconda/python
+UV_CACHE_DIR=/Users/victornavas/pinokio/cache/UV_CACHE_DIR
+_=/usr/bin/env
+<<PINOKIO_SHELL>>
+
+######################################################################
+#
+# group: undefined
+# id: ab03ac10-5493-4170-aadf-5c42e99bd0c6
+# index: 1
+# cmd: xcode-select --version
+# timestamp: 3/14/2025, 4:33:00 PM (1741966380108)
+
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+<<PINOKIO_SHELL>>xcode-select --version
+xcode-select version 2409.
+<<PINOKIO_SHELL>>
+
+######################################################################
+#
+# group: undefined
+# id: 18bf8169-08e0-40d5-94ee-3bde419a26a8
+# index: 0
+# cmd: ls
+# timestamp: 3/14/2025, 4:33:01 PM (1741966381151)
+
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+<<PINOKIO_SHELL>>ls
+ApplicationsUserscoreshomesbinvar
+LibraryVolumesdevopttmp
+Systembinetcprivateusr
+<<PINOKIO_SHELL>>
+
